@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ABCBackup\bin\Debug\ABCBackup.exe.config
+C:\Users\USER\source\repos\ABCBackup\bin\Debug\ABCBackup.exe
+C:\Users\USER\source\repos\ABCBackup\bin\Debug\ABCBackup.pdb
+C:\Users\USER\source\repos\ABCBackup\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.Properties.Resources.resources
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.csproj.CopyComplete
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.exe
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.pdb
+C:\Users\USER\source\repos\ABCBackup\obj\Debug\ABCBackup.Registros.resources
